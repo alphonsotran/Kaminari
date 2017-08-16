@@ -5,7 +5,8 @@ A Scope & Engine based, clean, powerful, customizable and sophisticated paginato
 ## Installation
 ------------------------------------------------------------------------------
 Include the gem in your gemfile.
-```gem 'kaminari'
+```
+gem 'kaminari'
 ```
 
 ## Controllers
